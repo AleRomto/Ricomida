@@ -1,0 +1,53 @@
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  font-family: "Cabin", sans-serif;
+}
+
+.ricomida {
+  font-family: "Lobster", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 37px;
+}
+
+.bg-red {
+  background-color: #dc3545;
+  padding: 7rem;
+}
+
+.bg-ricomidagris {
+  background-color: #373a3c;
+}
+
+.text37r {
+  font-size: 37px;
+}
+
+.newsletter {
+  font-size: 40px;
+  font-weight: 400;
+}
+.mejoresRecetas{
+  font-size: 30px;
+}
+
+
+.ricomida2 {
+  font-size: 30px;
+  font-family: "Lobster", sans-serif;
+}
+
+body main section div article div p {
+  margin-bottom: 0px;
+}
+
+.hcarusel {
+  height: 85%;
+}
+
+.boldcabin {
+  font-weight: 700;
+}
